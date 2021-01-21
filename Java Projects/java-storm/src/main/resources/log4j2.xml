@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+	<Loggers>
+		<logger name="org.apache.storm" level="OFF" />
+		<logger name="org.apache.zookeeper" level="OFF" />
+	</Loggers>
+</Configuration>

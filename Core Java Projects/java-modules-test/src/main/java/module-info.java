@@ -1,0 +1,3 @@
+module HelloWorldTest {
+	requires HelloWorld;
+}

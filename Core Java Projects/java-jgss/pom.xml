@@ -1,0 +1,51 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.sapient.learning</groupId>
+	<artifactId>java-jgss</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>java-jgss</name>
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+	<dependencies>
+
+	</dependencies>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>exec-maven-plugin</artifactId>
+				<version>1.2.1</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>java</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<mainClass>com.sapient.learning.Main</mainClass>
+					<systemProperties>
+						<systemProperty>
+							<key>java.security.krb5.conf</key>
+							<value>krb5.conf</value>
+						</systemProperty>
+						<systemProperty>
+							<key>javax.security.auth.useSubjectCredsOnly</key>
+							<value>false</value>
+						</systemProperty>
+						<systemProperty>
+							<key>java.security.auth.login.config</key>
+							<value>C:\Users\kumchand0\Apps\sts-workspace\Core Java Projects\java-jgss\src\main\resources\bcsLogin.conf</value>
+						</systemProperty>
+					</systemProperties>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+</project>

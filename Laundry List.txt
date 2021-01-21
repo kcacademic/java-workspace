@@ -1,0 +1,35 @@
+Priority
+========
+R2DBC [https://r2dbc.io/]
+SLF4J [http://www.slf4j.org/]
+Super Type Tokens [https://www.artima.com/weblogs/viewpost.jsp?thread=206350]
+
+Others
+======
+NATS [https://nats.io/]
+CloudEvents [https://cloudevents.io/]
+AsyncAPI [https://www.asyncapi.com/]
+OData [https://www.odata.org/]
+NiFi [https://nifi.apache.org/]
+JClarity [https://www.jclarity.com/index.php]
+StatefulJ [https://github.com/statefulj/statefulj]
+MapStruct [https://mapstruct.org/]
+Skaffold [https://skaffold.dev/]
+Schematron [http://schematron.com/]
+SeedStack [http://seedstack.org/]
+Web3j [https://docs.web3j.io/]
+Testcontainers [https://www.testcontainers.org/]
+WADL [https://www.w3.org/Submission/wadl/]
+CGLIB [https://github.com/cglib/cglib]
+AspectJ [https://www.eclipse.org/aspectj/]
+LMAX Disruptor [http://lmax-exchange.github.io/disruptor/]
+Zeppelin [http://zeppelin.apache.org/]
+Hibernate Reactive [https://github.com/hibernate/hibernate-reactive]
+MapZen [https://github.com/transitland/mapzen-geohash]
+Glowroot [https://glowroot.org/]
+ANTLR [https://www.antlr.org/]
+
+Apache
+======
+Apache Samza [http://samza.apache.org/] [http://samza.apache.org/startup/quick-start/latest/samza.html]
+Apache Ignite [https://ignite.apache.org/] [https://ignite.apache.org/docs/latest/quick-start/java]
