@@ -8,7 +8,7 @@ import org.eclipse.paho.client.mqttv3.MqttMessage;
 
 public class Sensor implements Callable<Void> {
 
-	public static final String TOPIC = "sensor";
+	public static final String TOPIC = "environment";
 
 	private IMqttClient client;
 	private Random rnd = new Random();
@@ -25,17 +25,20 @@ public class Sensor implements Callable<Void> {
 			return null;
 		}
 
-		MqttMessage msg = readTemperature();
-		msg.setQos(0);
-		msg.setRetained(true);
-		client.publish(TOPIC, msg);
+		while (true) {
+			Thread.sleep(1000);
+			MqttMessage msg = readTemperature();
+			msg.setQos(0);
+			msg.setRetained(true);
+			client.publish(TOPIC, msg);
+		}
 
-		return null;
+		//return null;
 	}
-	
+
 	private MqttMessage readTemperature() {
 		double temp = 80 + rnd.nextDouble() * 20.0;
-		byte[] payload = String.format("T:%04.2f", temp).getBytes();
+		byte[] payload = String.format("temperature,site=hall value=%04.2f", temp).getBytes();
 		MqttMessage msg = new MqttMessage(payload);
 		return msg;
 	}
