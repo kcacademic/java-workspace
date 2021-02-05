@@ -11,7 +11,7 @@ public class Application {
 
 	public static void main(String[] args) {
 
-		logger.debug("Starting the application at: {}", new Date());
+		logger.info("Starting the application at: {}", new Date());
 
 	}
 	
