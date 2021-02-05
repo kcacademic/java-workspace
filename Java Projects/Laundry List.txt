@@ -27,6 +27,8 @@ Hibernate Reactive [https://github.com/hibernate/hibernate-reactive]
 MapZen [https://github.com/transitland/mapzen-geohash]
 Glowroot [https://glowroot.org/]
 ANTLR [https://www.antlr.org/]
+Truffle [graalvm.org/reference-manual/java-on-truffle/]
+Spock [http://spockframework.org/]
 
 Apache
 ======

@@ -1,0 +1,10 @@
+Java Features [JDK 16]
+======================
+Vector API [https://openjdk.java.net/jeps/338]
+Unix-Domain Socket [https://openjdk.java.net/jeps/380]
+Enhanced PRGs [https://openjdk.java.net/jeps/356]
+Forign Memory Access API [https://openjdk.java.net/jeps/393]
+Forign Linker API [https://openjdk.java.net/jeps/389]
+Pattern Matching [https://openjdk.java.net/jeps/394]
+Sealed Classes [https://openjdk.java.net/jeps/397]
+Records [https://openjdk.java.net/jeps/395]
