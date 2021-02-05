@@ -1,7 +1,11 @@
 Priority
 ========
-R2DBC [https://r2dbc.io/]
-SLF4J [http://www.slf4j.org/]
+Java Native Access [https://github.com/java-native-access/jna]
+Spock [http://spockframework.org/]
+ArchUnit [https://www.archunit.org/]
+MapStruct [https://mapstruct.org/]
+AspectJ [https://www.eclipse.org/aspectj/]
+LMAX Disruptor [http://lmax-exchange.github.io/disruptor/]
 Super Type Tokens [https://www.artima.com/weblogs/viewpost.jsp?thread=206350]
 
 Others
@@ -9,28 +13,24 @@ Others
 NATS [https://nats.io/]
 CloudEvents [https://cloudevents.io/]
 AsyncAPI [https://www.asyncapi.com/]
-OData [https://www.odata.org/]
 JClarity [https://www.jclarity.com/index.php]
-StatefulJ [https://github.com/statefulj/statefulj]
-MapStruct [https://mapstruct.org/]
+StatefulJ [http://www.statefulj.io/]
 Skaffold [https://skaffold.dev/]
 Schematron [http://schematron.com/]
-SeedStack [http://seedstack.org/]
 Web3j [https://docs.web3j.io/]
 Testcontainers [https://www.testcontainers.org/]
 WADL [https://www.w3.org/Submission/wadl/]
 CGLIB [https://github.com/cglib/cglib]
-AspectJ [https://www.eclipse.org/aspectj/]
-LMAX Disruptor [http://lmax-exchange.github.io/disruptor/]
-Zeppelin [http://zeppelin.apache.org/]
 Hibernate Reactive [https://github.com/hibernate/hibernate-reactive]
 MapZen [https://github.com/transitland/mapzen-geohash]
 Glowroot [https://glowroot.org/]
 ANTLR [https://www.antlr.org/]
 Truffle [graalvm.org/reference-manual/java-on-truffle/]
-Spock [http://spockframework.org/]
+DBUnit [https://www.dbunit.org/]
 
 Apache
 ======
 Apache Samza [http://samza.apache.org/] [http://samza.apache.org/startup/quick-start/latest/samza.html]
 Apache Ignite [https://ignite.apache.org/] [https://ignite.apache.org/docs/latest/quick-start/java]
+Apache Zeppelin [http://zeppelin.apache.org/] [https://zeppelin.apache.org/docs/0.8.0/quickstart/install.html]
+Apache Olingo [https://olingo.apache.org/] [https://olingo.apache.org/doc/odata4/tutorials/od4_quick_start_sample.html]
