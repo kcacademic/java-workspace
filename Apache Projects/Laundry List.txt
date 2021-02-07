@@ -1,0 +1,6 @@
+Priority
+========
+Apache Samza [http://samza.apache.org/] [http://samza.apache.org/startup/quick-start/latest/samza.html]
+Apache Ignite [https://ignite.apache.org/] [https://ignite.apache.org/docs/latest/quick-start/java]
+Apache Zeppelin [http://zeppelin.apache.org/] [https://zeppelin.apache.org/docs/0.8.0/quickstart/install.html]
+Apache Olingo [https://olingo.apache.org/] [https://olingo.apache.org/doc/odata4/tutorials/od4_quick_start_sample.html]
