@@ -7,6 +7,7 @@ MapStruct [https://mapstruct.org/]
 AspectJ [https://www.eclipse.org/aspectj/]
 LMAX Disruptor [http://lmax-exchange.github.io/disruptor/]
 Super Type Tokens [https://www.artima.com/weblogs/viewpost.jsp?thread=206350]
+JMolecules [https://github.com/xmolecules/jmolecules]
 
 Others
 ======
@@ -27,3 +28,4 @@ Glowroot [https://glowroot.org/]
 ANTLR [https://www.antlr.org/]
 Truffle [graalvm.org/reference-manual/java-on-truffle/]
 DBUnit [https://www.dbunit.org/]
+Install4j [https://www.ej-technologies.com/products/install4j/overview.html]
