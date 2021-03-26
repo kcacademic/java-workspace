@@ -10,6 +10,7 @@ Super Type Tokens [https://www.artima.com/weblogs/viewpost.jsp?thread=206350]
 JMolecules [https://github.com/xmolecules/jmolecules]
 OSS Fuzz [https://github.com/google/oss-fuzz]
 Stargate [https://stargate.io/]
+Caffeine [https://github.com/ben-manes/caffeine]
 
 Others
 ======
