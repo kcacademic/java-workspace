@@ -1,4 +1,4 @@
-package com.sapient.learning.domain;
+package com.kchandrakant.learning.domain;
 
 import java.util.Date;
 
@@ -13,7 +13,7 @@ import org.apache.commons.lang3.builder.EqualsBuilder;
 import org.apache.commons.lang3.builder.HashCodeBuilder;
 import org.apache.commons.lang3.builder.ToStringBuilder;
 
-import com.sapient.learning.adapter.DateAdapter;
+import com.kchandrakant.learning.adapter.DateAdapter;
 
 @XmlRootElement(name = "book")
 @XmlType(propOrder = { "id", "name", "date" })

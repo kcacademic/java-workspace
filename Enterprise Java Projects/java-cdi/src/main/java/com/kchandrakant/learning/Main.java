@@ -1,4 +1,4 @@
-package com.sapient.learning;
+package com.kchandrakant.learning;
 
 import org.jboss.weld.environment.se.Weld;
 import org.jboss.weld.environment.se.WeldContainer;

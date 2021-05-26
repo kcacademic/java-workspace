@@ -1,4 +1,4 @@
-package com.sapient.learning;
+package com.kchandrakant.learning;
 
 public class PngFileEditor implements ImageFileEditor {
 

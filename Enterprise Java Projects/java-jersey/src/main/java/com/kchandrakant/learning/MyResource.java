@@ -1,4 +1,4 @@
-package com.sapient.learning;
+package com.kchandrakant.learning;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
