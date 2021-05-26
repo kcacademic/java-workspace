@@ -1,4 +1,4 @@
-namespace java com.sapient.learning
+namespace java com.kchandrakant.learning
  
 exception HelloException {
     1: i32 code,
