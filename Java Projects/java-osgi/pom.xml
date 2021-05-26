@@ -2,7 +2,7 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.sapient.learning</groupId>
+	<groupId>com.kchandrakant.learning</groupId>
 	<artifactId>java-osgi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>java-osgi</name>
@@ -32,8 +32,8 @@
 						<Bundle-SymbolicName>${project.groupId}.${project.artifactId}</Bundle-SymbolicName>
 						<Bundle-Name>${project.artifactId}</Bundle-Name>
 						<Bundle-Version>${project.version}</Bundle-Version>
-						<Bundle-Activator>com.sapient.learning.HelloWorld</Bundle-Activator>
-						<Private-Package>com.sapient.learning</Private-Package>
+						<Bundle-Activator>com.kchandrakant.learning.HelloWorld</Bundle-Activator>
+						<Private-Package>com.kchandrakant.learning</Private-Package>
 					</instructions>
 				</configuration>
 			</plugin>

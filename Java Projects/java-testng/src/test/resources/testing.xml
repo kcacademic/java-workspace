@@ -2,7 +2,7 @@
 <suite name="Test Suite">
    <test name="Main tests">
     <classes>
-      <class name="com.sapient.learning.MainTests" />
+      <class name="com.kchandrakant.learning.MainTests" />
     </classes>
   </test>
 </suite>

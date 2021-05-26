@@ -43,7 +43,7 @@
 
 		<serviceTask id="externalSystemCall"
 			name="Enter holidays in external system"
-			flowable:class="com.sapient.learning.CallExternalSystemDelegate" />
+			flowable:class="com.kchandrakant.learning.CallExternalSystemDelegate" />
 		<sequenceFlow sourceRef="externalSystemCall"
 			targetRef="holidayApprovedTask" />
 
@@ -54,7 +54,7 @@
 
 		<serviceTask id="sendRejectionMail"
 			name="Send out rejection email"
-			flowable:class="com.sapient.learning.SendRejectionMail" />
+			flowable:class="com.kchandrakant.learning.SendRejectionMail" />
 		<sequenceFlow sourceRef="sendRejectionMail"
 			targetRef="rejectEnd" />
 

@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.sapient.learning.MainTests">
+      <class name="com.kchandrakant.learning.MainTests">
         <methods>
           <include name="testMainMock"/>
           <include name="init"/>
           <include name="testMainSpyWithStub"/>
         </methods>
-      </class> <!-- com.sapient.learning.MainTests -->
+      </class> <!-- com.kchandrakant.learning.MainTests -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

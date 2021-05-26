@@ -1,6 +1,6 @@
-import com.sapient.learning.model.Applicant;
+import com.kchandrakant.learning.model.Applicant;
  
-global com.sapient.learning.model.SuggestedRole suggestedRole;
+global com.kchandrakant.learning.model.SuggestedRole suggestedRole;
  
 dialect  "mvel"
  
