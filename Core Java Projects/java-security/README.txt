@@ -14,8 +14,8 @@ java -Djava.security.auth.login.config=jaas-krb5.conf GssClient host WKWGB225769
 java -Djava.security.auth.login.config=jaas-krb5.conf -Djava.security.krb5.conf=krb5.conf GssServer
 java -Djava.security.auth.login.config=jaas-krb5.conf -Djava.security.krb5.conf=krb5.conf GssClient host WKWGB2257697
 
-java -Djava.security.auth.login.config=jaas-krb5.conf -Djava.security.krb5.conf=krb5.conf com.sapient.learning.gss.GssServer
-java -Djava.security.auth.login.config=jaas-krb5.conf -Djava.security.krb5.conf=krb5.conf com.sapient.learning.gss.GssClient HTTP localhost
+java -Djava.security.auth.login.config=jaas-krb5.conf -Djava.security.krb5.conf=krb5.conf com.kchandrakant.learning.gss.GssServer
+java -Djava.security.auth.login.config=jaas-krb5.conf -Djava.security.krb5.conf=krb5.conf com.kchandrakant.learning.gss.GssClient HTTP localhost
 
 SASL
 ====

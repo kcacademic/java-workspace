@@ -1,3 +1,3 @@
 module HelloWorld {
-	exports com.sapient.learning;
+	exports com.kchandrakant.learning;
 }
