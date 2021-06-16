@@ -7,10 +7,10 @@ import org.neo4j.ogm.session.SessionFactory;
 public class Neo4jSessionFactory {
 
 	private static SessionFactory boltSessionFactory = new SessionFactory(
-			new Configuration.Builder().uri("bolt://localhost").credentials("neo4j", "sapient").build(),
+			new Configuration.Builder().uri("bolt://localhost").credentials("neo4j", "kchandrakant").build(),
 			"com.kchandrakant.learning");
 	private static SessionFactory httpSessionFactory = new SessionFactory(
-			new Configuration.Builder().uri("http://localhost").credentials("neo4j", "sapient").build(),
+			new Configuration.Builder().uri("http://localhost").credentials("neo4j", "kchandrakant").build(),
 			"com.kchandrakant.learning");
 	private static SessionFactory embeddedSessionFactory = new SessionFactory(
 			new Configuration.Builder().build(),
