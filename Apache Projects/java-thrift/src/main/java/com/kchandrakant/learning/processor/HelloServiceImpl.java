@@ -5,9 +5,9 @@ import java.util.List;
 
 import org.apache.thrift.TException;
 
-import com.sapient.learning.HelloResource;
-import com.sapient.learning.HelloException;
-import com.sapient.learning.HelloService;
+import com.kchandrakant.learning.HelloResource;
+import com.kchandrakant.learning.HelloException;
+import com.kchandrakant.learning.HelloService;
 
 public class HelloServiceImpl implements HelloService.Iface {
 

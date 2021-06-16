@@ -7,7 +7,7 @@ import org.apache.thrift.transport.TSocket;
 import org.apache.thrift.transport.TTransport;
 import org.apache.thrift.transport.TTransportException;
 
-import com.sapient.learning.HelloService;
+import com.kchandrakant.learning.HelloService;
 
 public class HelloServiceClient {
 

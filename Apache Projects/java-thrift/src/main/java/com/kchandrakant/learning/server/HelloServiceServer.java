@@ -7,7 +7,7 @@ import org.apache.thrift.transport.TServerTransport;
 import org.apache.thrift.transport.TTransportException;
 
 import com.kchandrakant.learning.processor.HelloServiceImpl;
-import com.sapient.learning.HelloService;
+import com.kchandrakant.learning.HelloService;
 
 public class HelloServiceServer {
 
