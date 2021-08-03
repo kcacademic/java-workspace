@@ -11,6 +11,7 @@ JMolecules [https://github.com/xmolecules/jmolecules]
 OSS Fuzz [https://github.com/google/oss-fuzz]
 Stargate [https://stargate.io/]
 Caffeine [https://github.com/ben-manes/caffeine]
+Mutiny [https://smallrye.io/smallrye-mutiny/]
 
 Others
 ======
@@ -32,3 +33,5 @@ ANTLR [https://www.antlr.org/]
 Truffle [graalvm.org/reference-manual/java-on-truffle/]
 DBUnit [https://www.dbunit.org/]
 Install4j [https://www.ej-technologies.com/products/install4j/overview.html]
+ByteBuddy [https://bytebuddy.net/#/]
+JReleaser [https://jreleaser.org/]
