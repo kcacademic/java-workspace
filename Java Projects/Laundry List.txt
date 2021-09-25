@@ -13,6 +13,7 @@ Stargate [https://stargate.io/]
 Caffeine [https://github.com/ben-manes/caffeine]
 Mutiny [https://smallrye.io/smallrye-mutiny/]
 Reliably [https://reliably.com/docs/getting-started/]
+MicroStream [https://microstream.one/]
 
 Others
 ======
