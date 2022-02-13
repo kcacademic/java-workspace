@@ -15,6 +15,7 @@ Mutiny [https://smallrye.io/smallrye-mutiny/]
 Reliably [https://reliably.com/docs/getting-started/]
 MicroStream [https://microstream.one/]
 Chronicle Queue [https://github.com/OpenHFT/Chronicle-Queue]
+Failsafe [https://failsafe.dev/]
 
 Others
 ======
