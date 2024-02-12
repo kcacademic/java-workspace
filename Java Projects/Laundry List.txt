@@ -17,6 +17,7 @@ MicroStream [https://microstream.one/]
 Chronicle Queue [https://github.com/OpenHFT/Chronicle-Queue]
 Failsafe [https://failsafe.dev/]
 QueryDSL [http://querydsl.com/]
+OpenRewrite [https://docs.openrewrite.org/]
 
 Others
 ======
