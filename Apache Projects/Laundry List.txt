@@ -6,3 +6,4 @@ Apache Zeppelin [http://zeppelin.apache.org/] [https://zeppelin.apache.org/docs/
 Apache Olingo [https://olingo.apache.org/] [https://olingo.apache.org/doc/odata4/tutorials/od4_quick_start_sample.html]
 Apache Skywalking [https://skywalking.apache.org/] [https://github.com/apache/skywalking/tree/master/docs]
 Apache ShardingSphere [https://shardingsphere.apache.org/] [https://shardingsphere.apache.org/document/current/en/quick-start/]
+Apache Pekko [https://pekko.apache.org/] [https://pekko.apache.org/docs/pekko-samples/current/pekko-sample-cluster-java/]
